@@ -80,7 +80,6 @@ img {
 }
 
 .nav-list {
-  flex: display;
   gap: 40px;
   padding-top: 24px;
   padding-bottom: 24px;
