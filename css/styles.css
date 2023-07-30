@@ -501,6 +501,7 @@ footer {
   font-weight: 400;
   line-height: 1.5; /* 200% */
   letter-spacing: 0.04em;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.15));
 }
 .footer-input::placeholder {
   color: var(--primary-white-color);
