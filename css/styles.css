@@ -472,9 +472,6 @@ footer {
   margin-left: 80px;
 }
 
-.footer-form-label {
-  /* display: none; */
-}
 .form-title {
   color: var(--primary-white-color);
   font-size: 16px;
@@ -819,7 +816,6 @@ footer {
   font-size: 12px;
   line-height: 1.17;
   letter-spacing: 0.04em;
-  display: inline-flex;
   align-items: center;
   position: relative;
   margin-bottom: 24px;
