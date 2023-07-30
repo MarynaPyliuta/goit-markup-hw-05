@@ -473,7 +473,7 @@ footer {
 }
 
 .footer-form-label {
-  display: none;
+  /* display: none; */
 }
 .form-title {
   color: var(--primary-white-color);
